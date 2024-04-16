@@ -9,7 +9,7 @@
 </head>
 <body>
   <header>
-    <img src="logo.png" alt= "logo da Viajoy">
+    <img src="logo.png" alt= "logo da empresa">
     <nav>
       <ul>
         <a href="inicio.html">Inicio </a>
