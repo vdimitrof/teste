@@ -56,7 +56,7 @@
         <h2>Endereço</h2>
         <p>Rua Fictícia, 123</p>
         <p>Telefone: (11) 1234-5678</p>
-        <p>Email: viajoy@gmail.com</p>
+        <p>Email: empresa@gmail.com</p>
     </div>
     <div>
       <h2>Redes sociais</h2>
